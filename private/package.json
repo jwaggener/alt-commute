@@ -3,12 +3,16 @@
   "version": "0.1.0",
   "description": "An application for the ALT Commuter",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/jwaggener/alt-commute"
+    "type": "git",
+    "url": "https://github.com/jwaggener/alt-commute"
   },
   "devDependencies": {
     "csslint": "^0.10.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "jest": "^0.1.40",
     "jshint": "^2.8.0",
+    "jshint-stylish": "^2.0.1",
     "less": "^2.5.1"
   }
 }
