@@ -1,1 +1,1 @@
-App provides directions through urban environemnts that woud be useful to someone commuting with a skateboard.
+App provides directions through urban environments that would be useful to the modern skateboard commuter.
