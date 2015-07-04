@@ -1,0 +1,26 @@
+Epic
+A product that Skateboarder can use to plan and record commutes and other trips taken by skateboard.
+
+Story $1$4aYq94X7$r39e8.SDByD7zOEfX1fKU1:
+Set up linting for js and css. Set up testing with jest to support React interface. This is in support of all other stories.
+
+Story $1$HzsdCGT7$gV9EvIj5dLa4IdxSs/CGj:
+The Map should appear in the browser.
+Get an API Key from Google Maps
+Create a Document that displays the map using the JavaScript API
+
+Story $1$oN0pXkPH$j/nb6VBBn7vXImBzD6YJg0:
+Directions
+Using the JavaScript API display the map with directions
+
+Story $1$C1bKMnRW$tZvD51lWEXIa9Kn7bTSjt0:
+Display elevation data for a particular trip
+Elevation data will be grouped into 3 categories: uphill (>3% grade?) downhill (<-3% grade?) and flat (not uphill or downhill)
+Using the JavaScript Elevation API along with the directions API, display elevation data for the overall trip
+
+Story $1$0MBclG6A$wYULSfjk7USNpbDOj5d3p/:
+Add the ability to store trips. A user has the ability to map a trip, add notes to a notes field, and store it. The user is presented with a list of stored trips that can be opened and reviewed.
+There is no log in mechanism for this story. The user is me.
+
+Story $1$A58eoCjL$9B6dJfdg41VroWXmB/dTj/:
+Add the ability to log in with FB login. Store trips as this user.
