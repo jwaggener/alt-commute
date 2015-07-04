@@ -1,0 +1,14 @@
+{
+  "name": "alt-commute",
+  "version": "0.1.0",
+  "description": "An application for the ALT Commuter",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jwaggener/alt-commute"
+  },
+  "devDependencies": {
+    "csslint": "^0.10.0",
+    "jshint": "^2.8.0",
+    "less": "^2.5.1"
+  }
+}
